@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "description": "ECMAScript 6, also known as ES6 or ECMAScript 2015, brought significant enhancements to the JavaScript language. In this article, Hamza Sohail explores the top 10 ES6 features that every developer should be familiar with. ES6 was a major update to JavaScript, introducing new syntax and features to make code more concise and readable. This article is especially valuable for beginners looking to level up their JavaScript skills.\n\nHamza begins with an overview of ECMAScript 6 and its importance in modern web development. He then dives into the top features, including arrow functions, template literals, destructuring, and more. Each feature is explained in detail, with code examples to illustrate how it works in practice.\n\nOne of the key takeaways from this article is the importance of staying up-to-date with the latest JavaScript features. ES6 has become the foundation for modern JavaScript development, and mastering these features is essential for any aspiring web developer.\n\nIf you're a beginner or even an experienced developer looking to refresh your knowledge of ES6, this article by Hamza Sohail is a must-read. It's informative, well-structured, and provides practical examples to help you grasp the concepts of ECMAScript 6.",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "description": "JavaScript objects are a fundamental concept in the language, and they play a crucial role in web development. In this engaging article, Sajal Ali takes you on a fun journey to explore JavaScript objects from the ground up. Whether you're a coding novice or looking to strengthen your understanding of JavaScript, this article is a fantastic resource.\n\nSajal starts by explaining what objects are and why they are essential in JavaScript programming. She uses creative and relatable examples, making complex concepts easy to grasp. Throughout the article, you'll learn how to create objects, add properties and methods, and access their values.\n\nOne of the highlights of this article is the interactive code samples that Sajal provides. You can follow along, experiment with the code, and see immediate results in your browser's console. This hands-on approach is incredibly effective for learning.\n\nBy the end of the article, you'll have a solid foundation in working with JavaScript objects, which are crucial when building web applications. Sajal's clear explanations and engaging writing style make this article a valuable resource for anyone starting their coding journey.",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "description": "React is a popular JavaScript library for building user interfaces, and understanding component lifecycles is essential for developing robust React applications. In this comprehensive article, Feroze Khan delves deep into the concept of component lifecycles and explores the differences between class components and functional components in React.\n\nFeroze starts by explaining the basics of React component lifecycles and why they matter. He then compares class components and functional components, highlighting their respective lifecycles and when to use each type.\n\nOne of the strengths of this article is the in-depth analysis of the useEffect hook, a critical concept for managing side effects in functional components. Feroze provides real-world examples to illustrate how to use useEffect effectively and avoid common pitfalls.\n\nFurthermore, the article covers component lifecycle methods like componentDidMount, componentDidUpdate, and componentWillUnmount in class components. Feroze's explanations are clear, and the code examples are well-structured, making it easy for developers at various skill levels to follow along.\n\nWhether you're new to React or looking to sharpen your knowledge of component lifecycles, this article by Feroze Khan is a valuable resource. It equips you with the knowledge needed to build robust and efficient React applications.",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "description": "Creating a visually appealing website often requires high-quality images and resources, but finding them for free can be a challenging task. In this article, Anmol Baloch curates a collection of free images and resources that you can use to enhance your website's design and functionality.\n\nAnmol begins by emphasizing the importance of using images and resources legally and ethically. She then provides a handpicked selection of websites and platforms where you can find free images, icons, fonts, and other assets for your web projects.\n\nOne of the standout features of this article is the categorization of resources. Anmol groups them into sections like 'High-Quality Stock Photos,' 'Vector Icons,' and 'Open-Source Fonts,' making it easy for readers to find the specific resources they need.\n\nEach resource recommendation comes with a brief description and a direct link to the source, saving you valuable time in your search for the perfect assets. Anmol's expertise in web development and design shines through in this well-curated list.\n\nIf you're a web developer or designer looking to enhance your projects with high-quality, free resources, Anmol Baloch's article is a treasure trove of valuable recommendations. Explore this collection to elevate your website's visual appeal and functionality.",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }
+]
